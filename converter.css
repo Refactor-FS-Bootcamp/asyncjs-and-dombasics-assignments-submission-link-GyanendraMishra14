@@ -1,0 +1,29 @@
+#div1{
+    margin-left: 9cm;
+    margin-right: 9cm;
+    height: auto;
+}
+input{
+   height: .9cm;
+    width: 13cm;
+    border-radius: 5px;
+}
+#div2{
+    background-color: blue;
+    color: white;
+    margin-top: -1cm;
+    width: 13cm;
+    border-radius: 5px;
+    height: 1.8cm;
+}
+#h1{
+    text-align: center;
+}
+#W1{
+    margin-top: -1.2cm;
+    font-size: large;
+}
+#W3{
+    margin-top: -1.2cm;
+    font-size: large;
+}
